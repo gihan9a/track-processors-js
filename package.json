@@ -1,5 +1,5 @@
 {
-  "name": "@gihan9a/track-processors",
+  "name": "gihan9a/track-processors",
   "version": "0.3.2",
   "description": "LiveKit track processors",
   "main": "dist/index.js",
